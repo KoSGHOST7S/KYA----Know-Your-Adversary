@@ -24,8 +24,8 @@ If it's in the framework, someone has used it to break into a system just like y
 ## Getting Started
 
 ```bash
-git clone https://github.com/yourusername/kya.git
-cd kya
+git clone https://github.com/KoSGHOST7S/KYA----Know-Your-Adversary.git
+cd KYA----Know-Your-Adversary
 ```
 
 *Installation and usage documentation coming soon.*
