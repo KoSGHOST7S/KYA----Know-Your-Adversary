@@ -57,7 +57,3 @@ MIT License -- see [LICENSE](LICENSE) for details.
 ---
 
 *Harden like you've already been breached.*
-
----
-
-*Harden like you've already been breached.*
